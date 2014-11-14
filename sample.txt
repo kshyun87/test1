@@ -4,3 +4,5 @@ cde
 new test1
 dnd
 aaaaa
+pull: 원격 저장소의 내용을 가져오기 
+
