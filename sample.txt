@@ -2,4 +2,7 @@ abdc
 cde
 이번에는 뭘까?
 new test1
+dnd
+aaaaa
+pull: 원격 저장소의 내용을 가져오기 
 
